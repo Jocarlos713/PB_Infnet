@@ -2,3 +2,4 @@ Os dados da temperatura e descrição do clima em json() tambem como os ícones 
     Esses dados se tornaram métricas do projeto
 Os dados sobre a composição da atmosfera e qualidade do ar foram retirados da API "Air Pollution API" tambem do site da "Open Weather"
     Esses dados viraram uma tabela cujo cabeçario foram "Elementos" e "Concêntração"
+Os dados da página "links úteis" foram retirados do site "https://tecnoblog.net/"
